@@ -1,4 +1,4 @@
-# COVID-19 TRACKER APP
+# COVID-19 TRACKER APP (for your safety)
 
 
 ## Live site diplay: https://covid19-country.netlify.app/
